@@ -10,6 +10,7 @@ o trabalho realizado e atrair novos clientes por meio de uma presença online si
 🛠️ Tecnologias utilizadas
 - HTML
 - CSS
+- JAVASCRIPT
 - Git e GitHub
 
 🎨 Funcionalidades
